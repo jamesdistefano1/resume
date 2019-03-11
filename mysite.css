@@ -12,7 +12,35 @@ h3{
   text-align: center;
 }
 
+h4{
+  font-size: 22px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding: 0px 0px;
+}
+
 p{
-  margin: 40px;
+  font-family: verdana;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-left: 40px;
+  font-size: 15px;
+}
+
+#educationHeader{
+  padding: 0px 0px;
+}
+
+#education{
+  padding: 0px 0px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-left: 40px;
+  font-size: 15px;
+}
+
+#hangingIndent{
+  margin: 20px;
   text-indent: -2em;
+  padding: 0px 0px;
 }
